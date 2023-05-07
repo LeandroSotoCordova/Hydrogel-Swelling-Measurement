@@ -1,4 +1,5 @@
 # Hydrogel-Swelling-Measurement
+Code: Hydrogel_Swelling_Measurement.py
 This Python script analyzes multi-frame TIFF images of hydrogels to determine the change in area over time. It separates individual frames from the TIFF file, processes them to calculate the area of each gel, and then creates a video that shows the changes in the gel area over time.
 
 # Requirements
