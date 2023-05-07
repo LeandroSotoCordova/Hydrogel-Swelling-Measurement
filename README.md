@@ -16,3 +16,6 @@ This Python script analyzes multi-frame TIFF images of hydrogels to determine th
 The script will generate a video file named "Gel10_video.mp4" that shows the changes in the hydrogel area over time. The video will be saved in the same directory as the script.
 
 Note: If the TIFF file contains no frames, an error message will be displayed.
+
+# Important for the grader:
+I accidently submitted the wrong version of my code. I realized this a bit too late and I resubmitted the final version. Sorry about that..
